@@ -9,7 +9,6 @@ from tkinter import simpledialog
 import rarfile
 # Primer intento, no captura bien las excepciones
 
-rarfile.UNAR_TOOL = "C:/Herramientas/unrar/unrarw64.exe"
 root = Tk()
 root.withdraw()
 
